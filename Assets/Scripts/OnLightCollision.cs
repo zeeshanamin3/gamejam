@@ -19,6 +19,7 @@ public class OnLightCollision : MonoBehaviour
         if (other.transform == player)
         {
             isPlayerInLight = true;
+            Debug.Log("Player entered light cone");
         }
     }
 
@@ -31,12 +32,11 @@ public class OnLightCollision : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if (isPlayerInLight)
-        {
-            Debug.Log("Player entered light cone");
-        }
-        
-    }
+    // void Update()
+    // {
+    //     if (isPlayerInLight)
+    //     {
+    //         Debug.Log("Player entered light cone");
+    //     }
+    // }
 }
