@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LibraryStageChanger : MonoBehaviour
+public class TileActionTrigger : MonoBehaviour
 {
     private bool shouldCallAction = false;
     private bool isUpdating = false;

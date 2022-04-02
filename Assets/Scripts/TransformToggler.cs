@@ -33,7 +33,7 @@ public class TransformToggler : MonoBehaviour
         } else {
             transform.position = transform2;
         }
-        transform.Rotate(rotate, Space.Self);
+        transform.Rotate(0, 90, 0, Space.Self);
         toggleTransform = !toggleTransform;
     }
 }

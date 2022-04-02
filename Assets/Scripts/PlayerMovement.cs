@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     bool isActionPressed = false;
 
     // TODO Make this generic
-    LibraryStageChanger touchingObject = null;
+    TileActionTrigger touchingObject = null;
 
     Animator m_Animator;
     Rigidbody m_Rigidbody;
@@ -75,7 +75,7 @@ public class PlayerMovement : MonoBehaviour
         return isActionPressed;
     }
 
-    public LibraryStageChanger GetIsCollidingWithAction()
+    public TileActionTrigger GetIsCollidingWithAction()
     {
         Debug.LogError("Action turned on.");
         return touchingObject;
@@ -83,6 +83,6 @@ public class PlayerMovement : MonoBehaviour
 
     public void SetIsCollidingWithAction(Collider other) {
         Debug.LogError("Action turned off.");
-        touchingObject = other.GetComponent<LibraryStageChanger>();
+        touchingObject = other.GetComponent<TileActionTrigger>();
     }
 }
