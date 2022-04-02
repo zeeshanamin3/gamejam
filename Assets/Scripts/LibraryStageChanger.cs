@@ -5,7 +5,11 @@ using UnityEngine;
 public class LibraryStageChanger : MonoBehaviour
 {
     private bool shouldCallAction = false;
+    private bool isUpdating = false;
     // Start is called before the first frame update
+
+    [SerializeField]
+    List<TransformToggler> toggles = new List<TransformToggler>(); 
     void Start()
     {
         
@@ -29,13 +33,18 @@ public class LibraryStageChanger : MonoBehaviour
     }
 
     public void TriggerStateChange() {
-        
-        // foreach(TransformToggler child in GetComponentInChildren<TransformToggler>()) {
-        //     // Move shit around
-        //     // child.Rotate(new Vector3(0,180,0));
-
-        // }
+        if (!isUpdating) {
+            isUpdating = true;
+            foreach(TransformToggler child in toggles) {
+                // Move shit around
+                child.ToggleTransform();
+            }
+            StartCoroutine(WaitEvent(3));
+        }
     }
 
-    // private v
+    private IEnumerator WaitEvent(float waitTime) {
+        yield return new WaitForSeconds(waitTime);
+        isUpdating = false;
+    }
 }
