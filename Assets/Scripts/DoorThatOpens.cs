@@ -2,10 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Key : MonoBehaviour
+public class DoorThatOpens : MonoBehaviour
 {
-    [SerializeField]
-    string key;
     // Start is called before the first frame update
     // void Start()
     // {
@@ -17,10 +15,7 @@ public class Key : MonoBehaviour
     // {
         
     // }
-
-    public void OnTriggerEnter(Collider other) {
-        PlayerMovement movement = other.GetComponent<PlayerMovement>();
-        movement.AddKey(key);
+    public void Destroy() {
         this.gameObject.SetActive(false);
     }
 }
