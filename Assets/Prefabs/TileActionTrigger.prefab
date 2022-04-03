@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3259563216695985655}
   - component: {fileID: 5914355432584571236}
   m_Layer: 0
-  m_Name: TilActionTrigger
+  m_Name: TileActionTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
