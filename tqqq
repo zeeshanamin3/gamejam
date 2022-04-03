@@ -1,0 +1,317 @@
+[33mcommit 3e96e3c3f0068f3e51dd930a70cfc40a35705f3c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 23:31:07 2022 -0700
+
+    library changes
+
+[33mcommit 9dadcab787da53f08400bfdb8cffb0ab72011b87[m
+Merge: afbe38d 40a8885
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 21:49:15 2022 -0700
+
+    Merge pull request #13 from zeeshanamin3/Model2
+    
+    books
+
+[33mcommit 40a8885efe70ebe70e317497a150b9a460302d24[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 21:49:03 2022 -0700
+
+    books
+
+[33mcommit afbe38df5c6c96b83a07c18cc9f52413830360db[m
+Merge: 86a63e5 917ecc6
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 21:48:21 2022 -0700
+
+    Merge pull request #12 from zeeshanamin3/Model2
+    
+    Bookcase
+
+[33mcommit 917ecc6eecd550c6f0bb5b97f2747065c713c17f[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 21:48:05 2022 -0700
+
+    Bookcase
+
+[33mcommit 86a63e5d4d12a13b5cecac5ba1b50a285bea1486[m
+Merge: 34d78da 5970fed
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 21:33:39 2022 -0700
+
+    Merge pull request #11 from zeeshanamin3/Model2
+    
+    Bookcase
+
+[33mcommit 5970fed89fb64499fa13af38a3de49dfe5c93cc3[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 21:33:22 2022 -0700
+
+    Bookcase
+
+[33mcommit 34d78dafb4e02b37e8862e746432e8ea4aadf90a[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 21:29:47 2022 -0700
+
+    some fixes
+
+[33mcommit c751388918b819c3f045d395f541b18be459494b[m
+Merge: 7a01428 efe303d
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 21:00:52 2022 -0700
+
+    merged
+
+[33mcommit efe303d9b608ee71c69d8ccfde1e95bb21857f39[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 20:49:37 2022 -0700
+
+    FixSomeModelsUV
+
+[33mcommit 7a01428b072dc3a4cb0ff609859c412b1e7dbaba[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 20:47:26 2022 -0700
+
+    missed a save
+
+[33mcommit 7dc00a93deb360e84b8decd859c948ddb1f82ce4[m
+Merge: e3163e0 a33597f
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 20:46:56 2022 -0700
+
+    Merge branch 'main' of https://github.com/zeeshanamin3/gamejam into main
+
+[33mcommit e3163e03e8545f36e5192c9d15de51f9f6c47a9c[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 20:46:44 2022 -0700
+
+    added key system
+
+[33mcommit a33597fa55e167ef324cc3b50b45ccdc84c5e6aa[m
+Merge: 685529f 11ce803
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 20:01:11 2022 -0700
+
+    Merge pull request #9 from zeeshanamin3/Model2
+    
+    LockerUV
+
+[33mcommit 11ce803ad9cd88a189ce1d7e80821fa0833dc465[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 20:00:59 2022 -0700
+
+    LockerUV
+
+[33mcommit 685529f22082ab3f448b916f4e50b7fd31a95a70[m
+Merge: a21268b 019a98b
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 19:46:45 2022 -0700
+
+    merged main
+
+[33mcommit a21268bdeb8367ecad63c695d29ec3df01995887[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 19:45:44 2022 -0700
+
+    saving
+
+[33mcommit 019a98bcbe3e8c780c9b984555444e297ebe3f4f[m
+Merge: c379290 97086f7
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 19:45:01 2022 -0700
+
+    Merge pull request #8 from zeeshanamin3/Model2
+    
+    Luccas
+
+[33mcommit 97086f703579cedc340590a91a0a71e67482e4c0[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 19:44:49 2022 -0700
+
+    Luccas
+
+[33mcommit c379290a0392d6666f8dfc091f8c9f1189d2f934[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 19:39:41 2022 -0700
+
+    LittledudeTexture
+
+[33mcommit 7b3c5823016e5f09363194cbb3c01bcd1957e596[m
+Merge: 746bb39 cbd214b
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 19:21:13 2022 -0700
+
+    Merge pull request #7 from zeeshanamin3/Model
+    
+    Dude
+
+[33mcommit cbd214b406fb11572903ca82fbcb82aea69faa29[m[33m ([m[1;31morigin/Model[m[33m)[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 19:20:51 2022 -0700
+
+    Dude
+
+[33mcommit 746bb39cdecc6cf93f844d0a30cd21150f6e98d0[m
+Merge: 36ec38c 216ff5a
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 19:05:29 2022 -0700
+
+    Merge branch 'main' of https://github.com/zeeshanamin3/gamejam into main
+
+[33mcommit 36ec38c1476ff20b7f5b6f2b5e255f2a6b940917[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 19:05:26 2022 -0700
+
+    adding stuff
+
+[33mcommit 216ff5ad32922a5507c66120f8c6f248eb4dc147[m
+Merge: e498c1c 85e48e9
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 19:05:11 2022 -0700
+
+    Merge pull request #6 from zeeshanamin3/Model
+    
+    Character
+
+[33mcommit 85e48e9e876f8f10c5df344495776dfddb8600e6[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 19:04:23 2022 -0700
+
+    Character
+
+[33mcommit e498c1ca70fe22724b86ccb6408a2a237c02aea9[m
+Merge: fb34adc d602261
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 17:49:52 2022 -0700
+
+    Merge branch 'main' of https://github.com/zeeshanamin3/gamejam into main
+
+[33mcommit fb34adc2c5da317a76583fc107a117dfb8e8749c[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 17:49:44 2022 -0700
+
+    added a ball launcher
+
+[33mcommit d60226166782527fe8780110f3e3fb4518a21943[m
+Merge: a60c332 be4ddaf
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 17:49:29 2022 -0700
+
+    Merge pull request #5 from zeeshanamin3/Model
+    
+    Model
+
+[33mcommit a60c33272a0a03ebc299308a12d74a612ce3e436[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 16:16:33 2022 -0700
+
+    added lights, the cone seems wrong
+
+[33mcommit be4ddaf6eb056f1f23a08101f24eea4441a54833[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 14:25:06 2022 -0700
+
+    Door
+
+[33mcommit cfa217396952dad2328809d1c5292127720f032d[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 14:17:36 2022 -0700
+
+    Cabinet
+
+[33mcommit a65e944f0df6c04963bb4d88c8cad7000bca30e1[m
+Merge: bb3e781 e64bdcc
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 13:50:48 2022 -0700
+
+    Merge pull request #4 from zeeshanamin3/triggerplates
+    
+    cleaned up
+
+[33mcommit e64bdcc548ec020c351ec13994ad6de96832efb3[m[33m ([m[1;31morigin/triggerplates[m[33m, [m[1;32mtriggerplates[m[33m)[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 13:50:15 2022 -0700
+
+    cleaned up
+
+[33mcommit bb3e781fb4d09eef06a2d0584e89ca6b7e510ef9[m
+Merge: c976fec c3b5d54
+Author: iezanin <102878946+iezanin@users.noreply.github.com>
+Date:   Sat Apr 2 13:43:49 2022 -0700
+
+    Merge pull request #3 from zeeshanamin3/Model
+    
+    NewMaterial
+
+[33mcommit c3b5d54ea0cf156eaf30cfd1851aff3013722179[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 13:42:56 2022 -0700
+
+    NewMaterial
+
+[33mcommit c976fecdefc8b008738ca8dad2796adc4520c018[m
+Author: iezanin <iezanin3@gmail.com>
+Date:   Sat Apr 2 13:29:01 2022 -0700
+
+    Create Blackboard.obj
+
+[33mcommit 09725fbf3f57008d29d99c3daa9c8228ed6385df[m
+Merge: cf09fd8 eee6912
+Author: Zeeshan Amin <zeeshanamin3@outlook.com>
+Date:   Sat Apr 2 13:17:31 2022 -0700
+
+    Merge pull request #2 from zeeshanamin3/lightCone
+    
+    Added light cone trigger
+
+[33mcommit eee6912f4c0c14079b372883e87722e81ad4d399[m[33m ([m[1;31morigin/lightCone[m[33m)[m
+Author: Zeeshan <zeeshanamin3@outlook.com>
+Date:   Sat Apr 2 13:17:01 2022 -0700
+
+    Added light cone trigger
+
+[33mcommit cf09fd85a559898f98f4f86e36c0e964634dad0b[m
+Merge: 76163ab 7cdf9c3
+Author: Zeeshan <zeeshanamin3@outlook.com>
+Date:   Sat Apr 2 11:22:26 2022 -0700
+
+    Merge branch 'main' of https://github.com/zeeshanamin3/gamejam
+
+[33mcommit 76163ab68057fc36a1395827925fce85ceadf709[m
+Author: Zeeshan <zeeshanamin3@outlook.com>
+Date:   Sat Apr 2 11:21:06 2022 -0700
+
+    Added baseball obstacle and HallScene
+
+[33mcommit 7cdf9c36197ac7207f4d7e5f0e1b4c85ab93423a[m
+Merge: f772c0f d06de63
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 10:58:48 2022 -0700
+
+    Merge pull request #1 from zeeshanamin3/triggerplates
+    
+    added a ghost and obstacle shelves
+
+[33mcommit d06de63c4be038c741a07f36bc18a191bf3cf040[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Sat Apr 2 10:58:27 2022 -0700
+
+    added a ghost and obstacle shelves
+
+[33mcommit f772c0fd64e4cc46824c0161524c4389fd5638ab[m
+Author: luccaspg <luccaspg@gmail.com>
+Date:   Fri Apr 1 22:21:54 2022 -0700
+
+    first commit
+
+[33mcommit cadc3f6d881b918251948b392f8c096c0a5a5ea1[m
+Author: Zeeshan Amin <zeeshanamin3@outlook.com>
+Date:   Fri Apr 1 22:16:37 2022 -0700
+
+    Delete .ignore file
+
+[33mcommit ada7259613cee289e163d214a7a8f6952df2bab1[m
+Author: Zeeshan Amin <zeeshanamin3@outlook.com>
+Date:   Fri Apr 1 22:13:18 2022 -0700
+
+    Initial commit
