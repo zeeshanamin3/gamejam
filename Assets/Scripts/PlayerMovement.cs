@@ -16,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
     Vector3 m_Movement;
     Quaternion m_Rotation = Quaternion.identity;
 
+    public HashSet<string> keys = new HashSet<string>();
+
     // TODO: Make this generic
     [SerializeField]
     LibraryStageManager state_Manager = null;
@@ -84,5 +86,9 @@ public class PlayerMovement : MonoBehaviour
     public void SetIsCollidingWithAction(Collider other) {
         Debug.LogError("Action turned off.");
         touchingObject = other.GetComponent<TileActionTrigger>();
+    }
+
+    public void AddKey(string key) {
+        keys.Add(key);
     }
 }
