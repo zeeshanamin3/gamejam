@@ -2445,7 +2445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 950bd65beb93b8a419289ae99f1fa85b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 833429374}
+  player: {fileID: 1631275358}
 --- !u!136 &793303643
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2456,7 +2456,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 0.5
+  m_Radius: 2
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
@@ -2465,12 +2465,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 14cca97208f1031498e0dda651223aeb,
     type: 3}
   m_PrefabInstance: {fileID: 1796190688}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &833429374 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 310933272658838984, guid: e58a8494f35e17f45ba5bbffdfb92517,
-    type: 3}
-  m_PrefabInstance: {fileID: 931560921}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &852688793
 GameObject:
@@ -2516,7 +2510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 950bd65beb93b8a419289ae99f1fa85b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 833429374}
+  player: {fileID: 1631275358}
 --- !u!136 &852688796
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2527,7 +2521,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 0.5
+  m_Radius: 2
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
@@ -2972,7 +2966,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 933370493}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &977384603
+--- !u!64 &977384606
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4111,7 +4105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 950bd65beb93b8a419289ae99f1fa85b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 833429374}
+  player: {fileID: 1631275358}
 --- !u!136 &1385830764
 CapsuleCollider:
   m_ObjectHideFlags: 0
